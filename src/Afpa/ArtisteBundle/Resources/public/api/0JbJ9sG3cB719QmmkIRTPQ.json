@@ -1,0 +1,25 @@
+{
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/artist/0JbJ9sG3cB719QmmkIRTPQ"
+  },
+  "genres" : [ ],
+  "href" : "https://api.spotify.com/v1/artists/0JbJ9sG3cB719QmmkIRTPQ",
+  "id" : "0JbJ9sG3cB719QmmkIRTPQ",
+  "images" : [ {
+    "height" : 640,
+    "url" : "https://i.scdn.co/image/51c213c86a6f75847ae61cdf754afbd2251df353",
+    "width" : 640
+  }, {
+    "height" : 300,
+    "url" : "https://i.scdn.co/image/c7bba1b5983b03443a346b58552e9bb1ea708b9e",
+    "width" : 300
+  }, {
+    "height" : 64,
+    "url" : "https://i.scdn.co/image/fdfc350e77210ea07fa441e7cb2a800a32051bc2",
+    "width" : 64
+  } ],
+  "name" : "Parabellum",
+  "popularity" : 21,
+  "type" : "artist",
+  "uri" : "spotify:artist:0JbJ9sG3cB719QmmkIRTPQ"
+}

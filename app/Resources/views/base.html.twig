@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>{% block title %}Detail Artiste{% endblock %}</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	
+	<LINK rel="stylesheet" type="text/css" href="{{asset ('bundles/afpaartiste/css/bootstrap.css') }}"/>
+	<LINK rel="stylesheet" type="text/css" href="{{asset ('bundles/afpaartiste/css/bootstrap-overrides.css') }}"/>
+	<LINK rel="stylesheet" type="text/css" href="{{asset ('bundles/afpaartiste/css/jquery-ui-1.10.2.custom.css') }}"/>
+	<LINK rel="stylesheet" type="text/css" href="{{asset ('bundles/afpaartiste/css/font-awesome.css') }}"/>
+	<LINK rel="stylesheet" type="text/css" href="{{asset ('bundles/afpaartiste/css/layout.css') }}"/>
+	<LINK rel="stylesheet" type="text/css" href="{{asset ('bundles/afpaartiste/css/elements.css') }}"/>
+	<LINK rel="stylesheet" type="text/css" href="{{asset ('bundles/afpaartiste/css/icons.css') }}"/>
+	<LINK rel="stylesheet" type="text/css" href="{{asset ('bundles/afpaartiste/css/index.css') }}"/>
+	<LINK rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800">
+	<LINK rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Lato:300,400,700,900,300italic,400italic,700italic,900italic">
+</head>
+
+<body>
+<!-- navbar -->
+    <header class="navbar navbar-inverse" role="banner">
+        <div class="navbar-header">
+            <button class="navbar-toggle" type="button" data-toggle="collapse" id="menu-toggler">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand" href="index.html">
+                <img src="{{asset ('bundles/afpaartiste/images/logo.png') }}" alt="logo" />
+            </a>
+        </div>
+    </header>
+    <!-- end navbar -->
+	 <!-- sidebar -->
+    <div id="sidebar-nav">
+        <ul id="dashboard-menu">
+            <li class="active">
+                <div class="pointer">
+                    <div class="arrow"></div>
+                    <div class="arrow_border"></div>
+                </div>
+                <a href="index.html">
+                    <i class="icon-home"></i>
+                    <span>Home</span>
+                </a>
+            </li>            
+		</div>
+		<!-- end sidebar -->
+		<div class="content">
+			<div id="pad-wrapper" class="user-profile bio">
+				{% block body %}
+				Contenu de ma page
+				{% endblock %}
+			</div>	
+		</div>
+		<script type='text/javascript' src='http://code.jquery.com/jquery-latest.js'></script>
+		<script type='text/javascript' src="{{asset ('bundles/afpaartiste/js/bootstrap.min.js') }}"></script>
+		<script type='text/javascript' src="{{asset ('bundles/afpaartiste/js/jquery-ui-1.10.2.custom.min.js') }}"></script>
+		<script type='text/javascript' src="{{asset ('bundles/afpaartiste/js/theme.js') }}"></script>
+		<script type='text/javascript' src="{{asset ('bundles/afpaartiste/js/jquery.knob.js') }}"></script>
+		
+		<script type="text/javascript">
+        $(function () {
+            // jQuery Knobs
+            $(".knob").knob();
+        });
+		</script>
+		<script>
+		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+		ga('create', '{{ ga_tracking }}', 'auto');
+		ga('send', 'pageview');
+
+</script>
+	</div>
+</body>
+
+</html>

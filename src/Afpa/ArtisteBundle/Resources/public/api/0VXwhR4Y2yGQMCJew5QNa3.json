@@ -1,0 +1,13 @@
+{
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/artist/0VXwhR4Y2yGQMCJew5QNa3"
+  },
+  "genres" : [ ],
+  "href" : "https://api.spotify.com/v1/artists/0VXwhR4Y2yGQMCJew5QNa3",
+  "id" : "0VXwhR4Y2yGQMCJew5QNa3",
+  "images" : [ ],
+  "name" : "Kunio Tsuchiya",
+  "popularity" : 0,
+  "type" : "artist",
+  "uri" : "spotify:artist:0VXwhR4Y2yGQMCJew5QNa3"
+}

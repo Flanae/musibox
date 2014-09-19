@@ -1,0 +1,9 @@
+afpa_artiste_homepage:
+    path:     /hello/{name}
+    defaults: { _controller: AfpaArtisteBundle:Default:index }
+afpa_artiste_detail:
+    path:     /{artiste}
+    defaults: { _controller: AfpaArtisteBundle:Artistes:view }
+afpa_artiste_sauvegarde:
+    path:     /save/{artist}
+    defaults: { _controller: AfpaArtisteBundle:Artistes:save }

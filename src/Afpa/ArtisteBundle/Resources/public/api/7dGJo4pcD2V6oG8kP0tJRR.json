@@ -1,0 +1,29 @@
+{
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+  },
+  "genres" : [ ],
+  "href" : "https://api.spotify.com/v1/artists/7dGJo4pcD2V6oG8kP0tJRR",
+  "id" : "7dGJo4pcD2V6oG8kP0tJRR",
+  "images" : [ {
+    "height" : 621,
+    "url" : "https://i.scdn.co/image/f08ed487e3894e0f9ab1c199cbd449d0fb7e244c",
+    "width" : 1000
+  }, {
+    "height" : 397,
+    "url" : "https://i.scdn.co/image/65b89be0a27e4486b2dc0825defa793e9ab18822",
+    "width" : 640
+  }, {
+    "height" : 124,
+    "url" : "https://i.scdn.co/image/e7f36f618a1e577741be6d1f108d27dd693f5b81",
+    "width" : 200
+  }, {
+    "height" : 40,
+    "url" : "https://i.scdn.co/image/d808c91f555eae0cd83500e38a5c047b19d157de",
+    "width" : 64
+  } ],
+  "name" : "Eminem",
+  "popularity" : 93,
+  "type" : "artist",
+  "uri" : "spotify:artist:7dGJo4pcD2V6oG8kP0tJRR"
+}

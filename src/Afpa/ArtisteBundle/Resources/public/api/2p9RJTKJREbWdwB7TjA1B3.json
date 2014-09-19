@@ -1,0 +1,25 @@
+{
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/artist/2p9RJTKJREbWdwB7TjA1B3"
+  },
+  "genres" : [ ],
+  "href" : "https://api.spotify.com/v1/artists/2p9RJTKJREbWdwB7TjA1B3",
+  "id" : "2p9RJTKJREbWdwB7TjA1B3",
+  "images" : [ {
+    "height" : 640,
+    "url" : "https://i.scdn.co/image/fc93b1548cf0b1d93a702f019f8d499c346a6458",
+    "width" : 640
+  }, {
+    "height" : 300,
+    "url" : "https://i.scdn.co/image/566bfafa206989015a40f0c24f28532d88c7d240",
+    "width" : 300
+  }, {
+    "height" : 64,
+    "url" : "https://i.scdn.co/image/01bfb7696ed8f3670adc8b735ac269dc2efec29b",
+    "width" : 64
+  } ],
+  "name" : "2BE3",
+  "popularity" : 0,
+  "type" : "artist",
+  "uri" : "spotify:artist:2p9RJTKJREbWdwB7TjA1B3"
+}

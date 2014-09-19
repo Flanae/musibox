@@ -1,0 +1,29 @@
+{
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+  },
+  "genres" : [ ],
+  "href" : "https://api.spotify.com/v1/artists/2QsynagSdAqZj3U9HgDzjD",
+  "id" : "2QsynagSdAqZj3U9HgDzjD",
+  "images" : [ {
+    "height" : 858,
+    "url" : "https://i.scdn.co/image/22e6ec2e00e3fe5ce9e0aadb3ed2616d900bb385",
+    "width" : 1000
+  }, {
+    "height" : 549,
+    "url" : "https://i.scdn.co/image/f9a7656e1d9a51f285a1f1dcd7d676f9e1f6517a",
+    "width" : 640
+  }, {
+    "height" : 172,
+    "url" : "https://i.scdn.co/image/d984acb258fdca62d971862743b72e58d5184af5",
+    "width" : 200
+  }, {
+    "height" : 55,
+    "url" : "https://i.scdn.co/image/6970c0be5311b34c5e1778fa3e92684398163eea",
+    "width" : 64
+  } ],
+  "name" : "Bob Marley & The Wailers",
+  "popularity" : 91,
+  "type" : "artist",
+  "uri" : "spotify:artist:2QsynagSdAqZj3U9HgDzjD"
+}

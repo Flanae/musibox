@@ -1,0 +1,10 @@
+{% extends '::base.html.twig' %}
+
+{% block title %} {{ parent() }}{% endblock %}
+
+{% block body %}
+<div class="row header">
+				<h1 class="h1" >Erreur</h1>
+				<p>{{ artiste }}</p>
+			
+{% endblock %}

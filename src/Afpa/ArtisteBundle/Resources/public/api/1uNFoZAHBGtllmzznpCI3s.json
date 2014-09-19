@@ -1,0 +1,25 @@
+{
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+  },
+  "genres" : [ "teen pop" ],
+  "href" : "https://api.spotify.com/v1/artists/1uNFoZAHBGtllmzznpCI3s",
+  "id" : "1uNFoZAHBGtllmzznpCI3s",
+  "images" : [ {
+    "height" : 332,
+    "url" : "https://i.scdn.co/image/600bfc39951bf9da81a826d94def366029469dcc",
+    "width" : 292
+  }, {
+    "height" : 227,
+    "url" : "https://i.scdn.co/image/00c28a34e8dcad695f83aa81ce12c44f6805d818",
+    "width" : 200
+  }, {
+    "height" : 73,
+    "url" : "https://i.scdn.co/image/777c775078a82957969fd1d2d54e43ac8e68aefa",
+    "width" : 64
+  } ],
+  "name" : "Justin Bieber",
+  "popularity" : 78,
+  "type" : "artist",
+  "uri" : "spotify:artist:1uNFoZAHBGtllmzznpCI3s"
+}

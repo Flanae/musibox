@@ -1,0 +1,29 @@
+ {
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/artist/5HA5aLY3jJV7eimXWkRBBp"
+  },
+  "genres" : [ "gothic metal", "gothic symphonic metal", "symphonic metal" ],
+  "href" : "https://api.spotify.com/v1/artists/5HA5aLY3jJV7eimXWkRBBp",
+  "id" : "5HA5aLY3jJV7eimXWkRBBp",
+  "images" : [ {
+    "height" : 666,
+    "url" : "https://i.scdn.co/image/ed1e5da14bd251be8d1ee8a7aeead828dba1d457",
+    "width" : 999
+  }, {
+    "height" : 427,
+    "url" : "https://i.scdn.co/image/90e67252a914989bad84048da44835d1572d29b2",
+    "width" : 640
+  }, {
+    "height" : 133,
+    "url" : "https://i.scdn.co/image/74f7a6248a3b9a1a6d6cdefb5663f3935b4f7087",
+    "width" : 200
+  }, {
+    "height" : 43,
+    "url" : "https://i.scdn.co/image/f2a0a2dd782401403f07c08b7e8853660393daea",
+    "width" : 64
+  } ],
+  "name" : "Epica",
+  "popularity" : 46,
+  "type" : "artist",
+  "uri" : "spotify:artist:5HA5aLY3jJV7eimXWkRBBp"
+}

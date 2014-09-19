@@ -1,0 +1,12 @@
+afpa_artiste:
+    resource: "@AfpaArtisteBundle/Resources/config/routing.yml"
+    prefix:   /Artiste
+
+calculette:
+    resource: "@CalculetteBundle/Resources/config/routing.yml"
+    prefix:   /Calculette
+
+afpa_color:
+    resource: "@AfpaColorBundle/Resources/config/routing.yml"
+    prefix:   /
+

@@ -1,0 +1,29 @@
+{
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
+  },
+  "genres" : [ "classical christmas" ],
+  "href" : "https://api.spotify.com/v1/artists/4NJhFmfw43RLBLjQvxDuRS",
+  "id" : "4NJhFmfw43RLBLjQvxDuRS",
+  "images" : [ {
+    "height" : 1470,
+    "url" : "https://i.scdn.co/image/e21e3ea76ba888b0ed8b3f576cd3664ef182c4fb",
+    "width" : 1000
+  }, {
+    "height" : 941,
+    "url" : "https://i.scdn.co/image/3a748990ccd1ba6af3669ba25160431c217857f6",
+    "width" : 640
+  }, {
+    "height" : 294,
+    "url" : "https://i.scdn.co/image/b4c8b5a377f9b97a84d410505b789c4307d5a23a",
+    "width" : 200
+  }, {
+    "height" : 94,
+    "url" : "https://i.scdn.co/image/2e7d4f7373412a29da4fa6ae4732396168662f9f",
+    "width" : 64
+  } ],
+  "name" : "Wolfgang Amadeus Mozart",
+  "popularity" : 92,
+  "type" : "artist",
+  "uri" : "spotify:artist:4NJhFmfw43RLBLjQvxDuRS"
+}

@@ -1,0 +1,7 @@
+parameters:
+#    calculette.example.class: Afpa\CalculetteBundle\Example
+
+services:
+#    calculette.example:
+#        class: %calculette.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]

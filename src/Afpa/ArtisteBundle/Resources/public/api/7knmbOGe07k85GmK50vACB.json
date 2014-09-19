@@ -1,0 +1,25 @@
+{
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/artist/7knmbOGe07k85GmK50vACB"
+  },
+  "genres" : [ "french rock" ],
+  "href" : "https://api.spotify.com/v1/artists/7knmbOGe07k85GmK50vACB",
+  "id" : "7knmbOGe07k85GmK50vACB",
+  "images" : [ {
+    "height" : 481,
+    "url" : "https://i.scdn.co/image/bcb3af60284d6f37aee50591a12d58c25e356881",
+    "width" : 362
+  }, {
+    "height" : 266,
+    "url" : "https://i.scdn.co/image/aece868011bc3b0a6126325c550475d7e14c0195",
+    "width" : 200
+  }, {
+    "height" : 85,
+    "url" : "https://i.scdn.co/image/e74d39a51089c9bed4f769b3940349c35fd2dae6",
+    "width" : 64
+  } ],
+  "name" : "Indochine",
+  "popularity" : 42,
+  "type" : "artist",
+  "uri" : "spotify:artist:7knmbOGe07k85GmK50vACB"
+}

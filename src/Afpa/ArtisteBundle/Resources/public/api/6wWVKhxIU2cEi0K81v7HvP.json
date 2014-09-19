@@ -1,0 +1,29 @@
+{
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP"
+  },
+  "genres" : [ "industrial metal", "neue deutsche harte" ],
+  "href" : "https://api.spotify.com/v1/artists/6wWVKhxIU2cEi0K81v7HvP",
+  "id" : "6wWVKhxIU2cEi0K81v7HvP",
+  "images" : [ {
+    "height" : 997,
+    "url" : "https://i.scdn.co/image/84ce962f758dd667470455166b97a8513e71352a",
+    "width" : 1000
+  }, {
+    "height" : 638,
+    "url" : "https://i.scdn.co/image/cc80b9635b52d8b5e0818dca3c2d735512c74262",
+    "width" : 640
+  }, {
+    "height" : 199,
+    "url" : "https://i.scdn.co/image/6be62e3e9f8bfaddf36974539bb6f2b3ae6e2fc8",
+    "width" : 200
+  }, {
+    "height" : 64,
+    "url" : "https://i.scdn.co/image/efc2e46264c71a166f4b2c8d0acb5ffd677be1f9",
+    "width" : 64
+  } ],
+  "name" : "Rammstein",
+  "popularity" : 36,
+  "type" : "artist",
+  "uri" : "spotify:artist:6wWVKhxIU2cEi0K81v7HvP"
+}

@@ -1,0 +1,15 @@
+calculette_homepage:
+    path:     /hello/{name}
+    defaults: { _controller: CalculetteBundle:Default:index }
+calculette_operation:
+    path:     /{operation}/{nb1}/{nb2}
+    defaults: { _controller: CalculetteBundle:operations:calcul }
+    requirements :
+        operation: addition|soustraction|division|multiplication
+        nb1: \d*
+        nb2: \d*		
+calculette_factoriel:
+    path:     /factoriel/{nb3}
+    defaults: { _controller: CalculetteBundle:operations:factoriel }
+    requirements :
+        nb3: \d*
